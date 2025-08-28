@@ -1,0 +1,14 @@
+@import "tailwindcss";;
+@font-face{
+    font-family:'kumbhSans';
+    src: url('/src/assets/font/kumbhSans.ttf'),
+}
+@theme{
+    --font-kumbh: 'kumbhSans';
+    --color-orange-400: hsl(26, 100%, 55%);
+    --color-orange-50: hsl(25, 100%, 94%);
+    --color-neutral-800: hsl(220, 13%, 13%);
+    --color-neutral-400: hsl(219, 9%, 45%);
+    --color-neutral-200: hsl(220, 14%, 75%);
+    --color-neutral-50:  hsl(223, 64%, 98%)
+}
