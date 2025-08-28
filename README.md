@@ -28,6 +28,6 @@ Users should be able to:
 ## Built with
 
 - [React](https://reactjs.org/) - JS library
--[tailwindcss](https://tailwindcss.com/) - css framework
+- [tailwindcss](https://tailwindcss.com/) - css framework
 - Flexbox
 - CSS Grid
